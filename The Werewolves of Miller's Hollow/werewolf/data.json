@@ -18,45 +18,22 @@
   "have poison or not"
  ],
  "witch_list": [
-  [
-   1079020061437730946,
-   true,
-   true
-  ]
+  []
  ],
- "alive": [
-  1079020061437730946
- ],
+ "alive": [],
  "//werewolf_data": "================",
- "wolf_vote": [
-  [
-   0,
-   1021271741143715841
-  ]
- ],
+ "wolf_vote": [],
  "//witch_data": "================",
  "witch_antidote_n": 0,
- "witch_antidote": [
-  false
- ],
- "witch_poison": [
-  1
- ],
+ "witch_antidote": [],
+ "witch_poison": [],
  "//seer_data": "================",
- "seer_check": [
-  1021274448197853224
- ],
+ "seer_check": [],
  "//day data": "================",
  "people_vote": [],
  "//gamedata": "================",
- "killed_id": [
-  1021274448197853224,
-  1021271741143715841
- ],
- "killed_by": [
-  "\u72fc\u4eba",
-  "\u5973\u5deb"
- ],
+ "killed_id": [],
+ "killed_by": [],
  "time": "day",
  "witch_save": []
 }
