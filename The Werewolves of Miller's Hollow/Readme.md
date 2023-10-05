@@ -10,7 +10,7 @@
 總是作為旁觀者的我，發覺大家在玩這款桌時，必須有人需自稱"上帝"，無法參與遊戲。於是思考有沒有辦法解決這個問題，讓上帝這角色由電腦扮演，如此一來大家便都能參與到遊戲。
 
 ## 過程:
-曾想過以JAVA進行Windows GUI介面開發，但後來想到Discord bot，當下便決定改以Discord作為開發工具。
+曾想過以JAVA進行Windows GUI介面開發，但後來想到Discord bot，便決定改以Discord作為開發工具。
 最初透過Youtuber Proladon學習基礎知識，後來利用[Discord.py API](https://discordpy.readthedocs.io/en/stable/api.html)尋找需要的功能，有問題時便透過[discord](https://discord.com/)群組討論區或論壇[Stack Overflow](https://stackoverflow.com/)詢問其他前輩。最終歷時約七個月後大致完成這項專案。
 
 ## 自評建議:
