@@ -117,7 +117,7 @@ class Role_set(myCog):
     @commands.command()
     async def sr(self, ctx, ext):
         await self.set_seer(ctx, ext)
-'''
+        
     #set witch
     async def set_witch(self, ctx, ext):
         with open("data.json", 'r') as dt:
@@ -151,7 +151,6 @@ class Role_set(myCog):
     @commands.command()
     async def wh(self, ctx, ext):
         await self.set_witch(ctx, ext)
-'''
 
 async def setup(bot):
     await bot.add_cog(Role_set(bot))
