@@ -460,11 +460,3 @@ class Main(myCog):
 
 async def setup(bot):
     await bot.add_cog(Main(bot))
-
-
-
-'''
-TODO:
-    need to finish the 'vote' cmd
-
-'''
