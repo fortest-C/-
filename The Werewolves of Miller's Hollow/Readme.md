@@ -17,7 +17,7 @@
 1. 除蟲改善(debug): 完成基本功能後，尋找朋友進行執行測試時，才知道已有人製作出手機應用程式，也因此失去尋找漏洞的機會。
 2. 那時因為時間關係，還沒有完成```指令/功能說明互動介面```以及```程式碼優化```。未來有空時會再補上。
 
-## 檔案說明: (未提到部分鰾是可忽略)
+## 檔案說明: (未提到之文件表示可忽略)
 ### [cmds](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds)
 包含各種使用者指令
 >   #### [main_game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/main_game.py)
