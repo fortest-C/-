@@ -1,0 +1,62 @@
+{
+ "//player_data": "======================",
+ "player_name": [ ],
+ "player_id": [ ],
+ "//number of role": "======================",
+ "werewolf_number": 0,
+ "villager_number": 0,
+ "seer_number": 0,
+ "witch_number": 0,
+ "//list of roles": "======================",
+ "tell_everyone_the_true": "",
+ "werewolf_list": [],
+ "villager_list": [],
+ "seer_list": [],
+ "//data of witch": [
+  "id",
+  "antidote",
+  "have poison or not"
+ ],
+ "witch_list": [
+  [
+   1079020061437730946,
+   true,
+   true
+  ]
+ ],
+ "alive": [
+  1079020061437730946
+ ],
+ "//werewolf_data": "================",
+ "wolf_vote": [
+  [
+   0,
+   1021271741143715841
+  ]
+ ],
+ "//witch_data": "================",
+ "witch_antidote_n": 0,
+ "witch_antidote": [
+  false
+ ],
+ "witch_poison": [
+  1
+ ],
+ "//seer_data": "================",
+ "seer_check": [
+  1021274448197853224
+ ],
+ "//day data": "================",
+ "people_vote": [],
+ "//gamedata": "================",
+ "killed_id": [
+  1021274448197853224,
+  1021271741143715841
+ ],
+ "killed_by": [
+  "\u72fc\u4eba",
+  "\u5973\u5deb"
+ ],
+ "time": "day",
+ "witch_save": []
+}
