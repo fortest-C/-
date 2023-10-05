@@ -10,12 +10,12 @@
 ## 自評建議: 
 由於當時對程式的語法不是到很了解，許多程式碼部份並不精簡，我認為可以優化程式碼，加快運算速度，以及程式碼可讀性。
 
-# 檔案說明
-## [Windows_game_2048.cpp](https://github.com/fortest-C/-/blob/a31b3dc7f6b46dd60246cce26d8b85075185ba72/Windows_game_2048/game2048_version2.cpp)
+## 檔案說明
+### [Windows_game_2048.cpp](https://github.com/fortest-C/-/blob/a31b3dc7f6b46dd60246cce26d8b85075185ba72/Windows_game_2048/game2048_version2.cpp)
 包含基本遊戲代碼。遊戲規則如同網路上所述，使用 ```w a s d``` 或是 ```箭頭方向鍵來移動```  
 可按 'E' 於中途強制退出遊戲
 
-## [game2048_version2_with_scoreboard.cpp](https://github.com/fortestC/-/blob/main/Windows_game_2048/game2048_version2_with_scoreboard.cpp) (可略過)
+### [game2048_version2_with_scoreboard.cpp](https://github.com/fortestC/-/blob/main/Windows_game_2048/game2048_version2_with_scoreboard.cpp) (可略過)
 包含部分基本遊戲代碼以及記分板，為自動運行。按 'E' 結束運行  
 當時為了測試何種規則得分最高，讓每種規則都run過大約100次，得到[過程](https://github.com/fortest-C/-/edit/main/Windows_game_2048/README.md#%E9%81%8E%E7%A8%8B)中提到的分數。  
 每當想到新規則進行測試時，才對程式碼進行改寫，因此這份檔案內容或多或少有點跳慟(可能留有其他規則的殘餘代碼)，可以略過此檔。
