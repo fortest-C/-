@@ -46,7 +46,7 @@ int create()
 
 void print()
 {
-    cout << "*************\n¤W²¾ : w or  ¡ô\n¥ª²¾ : a or  ¡ö\n¥k²¾ : d or  ¡÷\n¤U²¾ : s or  ¡õ\n­Ë°h : b\n*************\n";
+    cout << "*************\nä¸Šç§» : w or  â†‘\nå·¦ç§» : a or  â†\nå³ç§» : d or  â†’\nä¸‹ç§» : s or  â†“\nå€’é€€ : b\n*************\n";
     if (GAMEOVER)
     {
         cout << "\n\n    ---GAME OVER---\n    ----YOUR SCORE: " << score << "----\n    ----YOUR HAVE MOVED: " << step << " TIMES----" << endl;
@@ -57,7 +57,7 @@ void print()
             for (int j = 0; j < 4; j++)
             {
                 if (pre[i][j] == 0)
-                    cout << "   ÉI";
+                    cout << "   å›—";
                 else
                     printf("%5d", pre[i][j]);
             }
@@ -75,7 +75,7 @@ void print()
         for (int j = 0; j < 4; j++)
         {
             if (pre[i][j] == 0)
-                cout << "   ÉI";
+                cout << "   å›—";
             else
                 printf("%5d", pre[i][j]);
         }
