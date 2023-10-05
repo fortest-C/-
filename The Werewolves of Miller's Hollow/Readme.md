@@ -16,3 +16,17 @@
 ## 自評建議:
 1. 除蟲改善(debug): 完成基本功能後，尋找朋友進行執行測試時，才知道已有人製作出手機應用程式，也因此失去尋找漏洞的機會。
 2. 那時因為時間關係，還沒有完成```指令/功能說明互動介面```以及```程式碼優化```。未來有空時會再補上。
+
+## 檔案說明: (未提到部分鰾是可忽略)
+### [cmds](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds)
+包含各種使用者指令
+   #### [main_game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/main_game.py)
+   此為遊戲最主要的執行檔，內容包含遊戲規則判斷、遊戲進行主函式等等
+   #### [set_role](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/set_role.py)
+   此為角色數量設定指令
+   #### [game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/game.py)
+   此檔案提供玩家加入或退出遊戲佇列
+### [core](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/core)
+為此discord bot的啟動檔，執行其中```classes.py```便能啟動機器人
+### [data.json](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/data.json)
+此為json資料庫，儲存遊戲的所有資料
