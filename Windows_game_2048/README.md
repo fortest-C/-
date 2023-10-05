@@ -1,6 +1,6 @@
-/# 使用程式語言: cpp  
-/# 使用資源: Windows system command/ Windows 視窗介面  
-/# 專案製作期間: 高一下(110年)  
+#使用程式語言: cpp  
+#使用資源: Windows system command/ Windows 視窗介面  
+#專案製作期間: 高一下(110年)  
 
 # 2048小遊戲
 ## 動機: 
@@ -12,7 +12,7 @@
 
 # 檔案說明
 ## [Windows_game_2048.cpp](https://github.com/fortest-C/-/blob/a31b3dc7f6b46dd60246cce26d8b85075185ba72/Windows_game_2048/game2048_version2.cpp)
-包含基本遊戲代碼。遊戲規則如同網路上所述，使用 ```w a s d``` 或是 "箭牌方向鍵來移動"  
+包含基本遊戲代碼。遊戲規則如同網路上所述，使用 ```w a s d``` 或是 ```箭頭方向鍵來移動```  
 可按 'E' 於中途強制退出遊戲
 
 ## [game2048_version2_with_scoreboard.cpp](https://github.com/fortestC/-/blob/main/Windows_game_2048/game2048_version2_with_scoreboard.cpp) (可略過)
