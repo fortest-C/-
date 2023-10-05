@@ -14,14 +14,14 @@
 最初透過Youtuber Proladon學習基礎知識，後來利用[Discord.py API](https://discordpy.readthedocs.io/en/stable/api.html)尋找需要的功能，有問題時便透過[discord](https://discord.com/)群組討論區或論壇[Stack Overflow](https://stackoverflow.com/)詢問其他前輩。最終歷時約七個月後大致完成這項專案。
 
 ## 自評建議:
-1. 除蟲改善(debug): 完成基本功能後，尋找朋友進行執行測試時，才知道已有人製作出手機應用程式，也因此失去尋找漏洞的機會。
-2. 那時因為時間關係，還沒有完成```指令/功能說明互動介面```以及```程式碼優化```。未來有空時會再補上。
+1. 除蟲改善(debug): 完成基本功能後，尋找朋友進行執行測試時，才知道已有人製作出手機應用程式，也因此失去尚未找到機會進行這部分。
+2. ```指令/功能說明互動介面```以及```程式碼優化```: 由於時間上的限制，這部分還沒有完成。預計未來有空時會再補上。
 
 ## 檔案說明: (未提到之文件表示可忽略)
 ### [cmds](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds)
 包含各種使用者指令
 >   #### [main_game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/main_game.py)
->   此為遊戲最主要的執行檔，內容包含遊戲規則判斷、遊戲進行主函式等等
+>   此為遊戲最主要的執行檔，內容包含遊戲規則判斷、遊戲執行主函式等等
 >   #### [set_role](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/set_role.py)
 >   此為角色數量設定指令
 >   #### [game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/game.py)
